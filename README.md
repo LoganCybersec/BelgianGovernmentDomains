@@ -1,71 +1,75 @@
-# 🇧🇪 BelgianGovernmentDomains
+# 🇧🇪 Belgian Government Domains
 
-A community-maintained list of Belgian government domains that fall under the **CCB Vulnerability Disclosure Program (VDP)**.
+A community-maintained list of Belgian government domains and subdomains that may fall under the **CCB Vulnerability Disclosure Program (VDP)**.
 
-Official VDP information:
+Official VDP information:  
 👉 https://ccb.belgium.be/cert/vulnerability-reporting-ccb
 
 ---
 
-## 📌 Purpose
+## 🎯 Purpose
 
-This repository aims to help security researchers, students, and defenders:
+This repository helps security researchers and defenders to identify Belgian government–related domains and reduce guesswork when assessing potential VDP scope.
 
-- Identify Belgian government domains potentially in scope for responsible vulnerability disclosure  
-- Reduce guesswork when determining whether a domain may fall under the CCB VDP  
-- Encourage coordinated, ethical security research  
----
-## ⚠️ Important Disclaimer
+This list is **not authoritative or complete**.  
+Always verify scope using official CCB documentation.
 
-- **This list is NOT conclusive** and does not represent a complete or authoritative inventory.  
-- **Not every listed domain is guaranteed to resolve** — some domains may be deprecated, inactive, or internal-only.  
-- Inclusion in this list **does not automatically confirm scope** for a specific program or assessment.  
-- Do not submit domains from these institutions: SGRS/ADIV, VSSE, OCAM/OCAD, Ministry of Defence, police services, Belgian diplomatic and consular missions outside the EU, Class I nuclear establishments, NCCN and judicial authorities. 
-As this is not allowed
-
-Use this list responsibly and ethically.
+The domains dont always resolve or give a 404, this is merely meant as a collection of domains.
 
 ---
 
-## 🤝 Contributions
+## 🚫 Explicitly Out of Scope
 
-Contributions are **welcome and encouraged**.
+Domains belonging to the following entities must **not** be included:
 
-Anyone can submit domains they believe belong to Belgian government entities.
+- SGRS / ADIV  
+- VSSE  
+- OCAM / OCAD  
+- Ministry of Defence  
+- Police services  
+- Belgian diplomatic or consular missions outside the EU  
+- Class I nuclear establishments  
+- NCCN  
+- Judicial authorities  
 
-### How to contribute
+These entities are excluded from the CCB VDP.
 
-1. Fork this repository  
-2. Add or update domains in the appropriate file  
-3. Ensure domains are:
-   - Clearly related to Belgian government institutions  
-   - Correctly formatted (one domain per line)  
-4. Open a pull request with a short explanation  
+---
 
-Please avoid submitting:
-- Private or internal hostnames  
-- IP addresses  
-- Domains not clearly linked to Belgian government entities  
+## 🌐 Domains & Subdomains
+
+Domains include subdomains of 
+
+- fgov.be
+- belgium.be
+- socialsecurity.be
+
+If you find subdomains of these domains that are not in the file , please submit a pull request
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome.
+
+Only submit domains that:
+- Clearly belong to Belgian government entities
+- Are publicly reachable
+- Are formatted as one domain per line
+
+Do not submit internal hostnames, IP addresses, or speculative entries.
 
 ---
 
 ## 🔐 Responsible Disclosure
 
-If you discover a security vulnerability on a domain that may fall under the CCB VDP:
+If you discover a vulnerability, follow responsible disclosure best practices and report findings through the official CCB reporting channels.
 
-- Follow responsible disclosure best practices  
-- Report findings via the official CCB reporting channels  
-- Do **not** exploit, disrupt, or exfiltrate data  
+Do not exploit, disrupt, or exfiltrate data.
 
 ---
 
-## 📄 License & Usage
+## 📄 Disclaimer
 
-This project is intended for educational and defensive security research purposes only.
-
-If you believe a domain should be removed or corrected, please open an issue or pull request.
-
----
-
-⭐ If this project helps you, consider starring the repository to support continued maintenance.
-
+This project is intended for educational and defensive security research purposes only.  
+Domain inclusion does not confirm VDP scope or authorization.
