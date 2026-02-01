@@ -75,7 +75,6 @@ C7000-02B-OA2.intra.just.fgov.be
 CCFF02Stamp.minfin.fgov.be
 DIDEWE101.rsvz-inasti.fgov.be
 DIDEWE102.rsvz-inasti.fgov.be
-DNSmaster@iph.fgov.be
 E7M.economie.fgov.be
 EVA.economie.fgov.be
 FODJ-Integration-STS-Token-Decryption-2018.just.fgov.be
@@ -98,7 +97,6 @@ HVB-Liege-test.just.fgov.be
 HVB-Liege.just.fgov.be
 HVB-Mons-test.just.fgov.be
 HVB-Mons.just.fgov.be
-ICTregistration@iph.fgov.be
 IN-DIDEWE101.rsvz-inasti.fgov.be
 IN-DIDEWE102.rsvz-inasti.fgov.be
 JustX-cjcs-test.just.fgov.be
@@ -121,15 +119,12 @@ Lyncweb001-ext.integration.just.fgov.be
 Lyncweb001-int.integration.just.fgov.be
 MACH-politierechtbank-test.just.fgov.be
 MACH-politierechtbank.just.fgov.be
-Mark.Looman@health.fgov.be
-Network.ICT@inami.fgov.be
 PAUTH.riziv.fgov.be
 RPROXY-ACC.rsvz-inasti.fgov.be
 RPRXY-X2.rsvz-inasti.fgov.be
 RRN-SITRAN.minfin.fgov.be
 SDVOAMRPAI000.intra.just.fgov.be
 SDVOAMRPBI000.intra.just.fgov.be
-SECURITY@sigedis.fgov.be
 SEQB2BPARTNERS-ACC.rsvz-inasti.fgov.be
 SEQB2BPARTNERS-TST.rsvz-inasti.fgov.be
 SEQB2BPARTNERS.rsvz-inasti.fgov.be
@@ -150,9 +145,6 @@ SPVVIEWCOMP001.intra.just.fgov.be
 SPVVIEWCOMP002.intra.just.fgov.be
 SelfReset.intra.just.fgov.be
 SelfReset.just.fgov.be
-Servers&Storage.ICT@riziv.fgov.be
-Servers&Storage@riziv.fgov.be
-ServersStorage.ICT@riziv.fgov.be
 SfbEdgePool01.test.just.fgov.be
 Strafregister-test.just.fgov.be
 Strafregister.just.fgov.be
@@ -252,7 +244,6 @@ adm-active.webehealthsim.ehealth.fgov.be
 admin.electionresults.belgium.be
 admin.ncc-acc.belgium.be
 admin.ncc.belgium.be
-admin@rrn.fgov.be
 adresse-judiciaire-tst.intra.just.fgov.be
 adresses-judiciaires.just.fgov.be
 ads.belgium.be
@@ -595,7 +586,6 @@ benin.diplomatie.belgium.be
 bertrand.belgium.be
 bertrand.decroo-i.archive.belgium.be
 besafe.be
-besafe@ibz.fgov.be
 bestat.economie.fgov.be
 bestat.statbel.fgov.be
 beta.beam.belgium.be
@@ -733,8 +723,6 @@ c-cnhsov-acc.rsvz-inasti.fgov.be
 c-cnhsov-tst.rsvz-inasti.fgov.be
 c-cnhsov.rsvz-inasti.fgov.be
 ca.consumerpki.dis.services.belgium.be
-ca@mobilit.fgov.be
-ca@rrn.fgov.be
 caami-hziv.fgov.be
 caami.fgov.be
 cabin.mybike.belgium.be
@@ -742,7 +730,6 @@ cadinfo.minfin.fgov.be
 caf.belgium.be
 caissedesdepots.belgium.be
 calculateurloyer.statbel.fgov.be
-callcenter.rrn@rrn.fgov.be
 callcenterapi-acc.onva-rjv.fgov.be
 callcenterapi.onva-rjv.fgov.be
 cameroon.diplomatie.belgium.be
@@ -799,7 +786,6 @@ certif.iamfas.belgium.be
 certif.iamfas.int.belgium.be
 certif.iamfas.qa.belgium.be
 certif.iamfas.ta.belgium.be
-certificates@just.fgov.be
 certs.eid.belgium.be
 certs.pki.belgium.be
 cesop-back.minfin.fgov.be
@@ -1613,7 +1599,6 @@ gsd.fgov.be
 gt.uat.ccb.belgium.be
 guest.health.fgov.be
 guideweb.fgov.be
-guido.naudts@just.fgov.be
 guinea.diplomatie.belgium.be
 handicap.belgium.be
 handicap.fgov.be
@@ -1636,7 +1621,6 @@ help.xn--prosant-hya.fgov.be
 helpdesk-cjcs.intra.just.fgov.be
 helpdesk-epi.intra.just.fgov.be
 helpdesk.intra.just.fgov.be
-helpdesk@ofoifa.fgov.be
 hfa.fgov.be
 hgr.belgium.be
 hkiv.fgov.be
@@ -1832,7 +1816,6 @@ jboxwa-smals.ext.wss.just.fgov.be
 jboxws-acc.just.fgov.be
 jboxws-int.just.fgov.be
 jboxws.just.fgov.be
-jean.festraets@health.fgov.be
 jecc-acc.intra.just.fgov.be
 jecc-dev.intra.just.fgov.be
 jecc-tst.intra.just.fgov.be
@@ -2140,7 +2123,6 @@ manager-cixpstaging.belgium.be
 mandates-csam.minfin.fgov.be
 mandates.minfin.fgov.be
 marchepublic.digiflow.belgium.be
-marcus.spiritus@mobilit.fgov.be
 marghem.wilmes-ii.archive.belgium.be
 maroc.diplomatie.belgium.be
 marokko.diplomatie.belgium.be
@@ -2202,7 +2184,6 @@ mft.services.ta.belgium.be
 mi-is.be
 mibz.fgov.be
 michel.decroo-i.archive.belgium.be
-michel.hurard@health.fgov.be
 mijndossier.acc.rrn.fgov.be
 mijndossier.rrn.fgov.be
 mijnopinie.belgium.be
@@ -2303,9 +2284,7 @@ nederland.diplomatie.belgium.be
 nehap.be
 netdisco.intra.just.fgov.be
 netherlands.diplomatie.belgium.be
-netops@health.fgov.be
 netstats.gcloud.belgium.be
-network@onprvp.fgov.be
 networking.cloudiac.docs.mobilit.fgov.be
 new-gatekeeper02.br.fgov.be
 new-kbo-bce-select-be-acc.economie.fgov.be
@@ -2730,7 +2709,6 @@ regartisans.economie.fgov.be
 regelgeving.just.fgov.be
 regiedergebouwen.be
 register.mobilit.fgov.be
-registration@ehealth.fgov.be
 registry-fsf.services.belgium.be
 registry.fsf.services.belgium.be
 reglementation.just.fgov.be
