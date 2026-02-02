@@ -1,0 +1,17 @@
+acc.ext.socialsecurity.belgium.be
+acc.pub.socialsecurity.belgium.be
+assets.socialsecurity.belgium.be
+checkinatwork.socialsecurity.be
+checkinout-management.socialsecurity.be
+eacademy.socialsecurity.belgium.be
+int.ext.socialsecurity.belgium.be
+international.socialsecurity.be
+jaarverslag.socialsecurity.belgium.be
+meldingsplicht.socialsecurity.be
+mycareer.socialsecurity.be
+nssoservicerequest.socialsecurity.be
+overseassocialsecurity.be
+rapportannuel.socialsecurity.belgium.be
+seafarers-socialsecurity.be
+single-permit.socialsecurity.be
+test.ext.socialsecurity.belgium.be
