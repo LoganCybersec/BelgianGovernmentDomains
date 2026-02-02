@@ -279,6 +279,7 @@ animalwelfare.belgium.be
 annualreport.kce.fgov.be
 annualreport2015.kce.fgov.be
 annualreport2016.kce.fgov.be
+antispam.diplomatie.be
 ap-eessi-acc.ksz-bcss.fgov.be
 ap-eessi-test2.ksz-bcss.fgov.be
 ap-eessi.ksz-bcss.fgov.be
@@ -320,6 +321,10 @@ apiportal.economie.fgov.be
 applsprd.riziv.fgov.be
 applsprd2.riziv.fgov.be
 applstst2.riziv.fgov.be
+appointment.cloud.diplomatie.be
+appointment.dev.diplomatie.be
+appointment.tst.diplomatie.be
+appointment.uat.diplomatie.be
 appprd.riziv.fgov.be
 appprd2.riziv.fgov.be
 appprod.rkw-onafts.fgov.be
@@ -335,6 +340,7 @@ apps-acpt.samdb.up.ehealth.fgov.be
 apps-azure.samdb.ehealth.fgov.be
 apps-tst.mobilit.fgov.be
 apps.digital.belgium.be
+apps.diplomatie.be
 apps.hda.belgium.be
 apps.health.belgium.be
 apps.health.fgov.be
@@ -343,6 +349,8 @@ apps.samdb.ehealth.fgov.be
 apps.samdb.in.ehealth.fgov.be
 apps.samdb.up.ehealth.fgov.be
 apps.sepp.belgium.be
+apps2.diplomatie.be
+apps3.diplomatie.be
 appsoc.caami-hziv.fgov.be
 apptst.riziv.fgov.be
 apptst2.riziv.fgov.be
@@ -427,6 +435,7 @@ audittrail.archiving.services.belgium.be
 audittrail.replication-archiving.services.belgium.be
 auth-cixp.belgium.be
 auth-cixpstaging.belgium.be
+auth-dev.diplomatie.be
 auth-encryption.riziv-inami.fgov.be
 auth-signing.caami-hziv.fgov.be
 auth-signing.cgvs.fgov.be
@@ -436,9 +445,12 @@ auth-signing.onva-rjv.fgov.be
 auth-signing.riziv-inami.fgov.be
 auth-signing.rszonsslss.fgov.be
 auth-signing.sigedis.fgov.be
+auth-tst.diplomatie.be
+auth-uat.diplomatie.be
 auth.bosa.fgov.be
 auth.caami-hziv.fgov.be
 auth.cgvs.fgov.be
+auth.diplomatie.be
 auth.economie.fgov.be
 auth.ehealth.fgov.be
 auth.gcloud.belgium.be
@@ -493,6 +505,7 @@ azma-vasha-acc.gcloud.belgium.be
 azma-vasha-prd.gcloud.belgium.be
 azureapim.cloudiac.docs.mobilit.fgov.be
 azuremonitoring.cloudiac.docs.mobilit.fgov.be
+b-fast.diplomatie.be
 b2b-acc.rsvz-inasti.fgov.be
 b2b-acce.faofat.fgov.be
 b2b-acpt.ksz-bcss.fgov.be
@@ -544,6 +557,7 @@ beenders.belgium.be
 belac.fgov.be
 beldrive.acc.mobilit.fgov.be
 beldrive.mobilit.fgov.be
+belgianstobrazil.diplomatie.be
 belgielex.be
 belgium.be
 belgium.fgov.be
@@ -554,6 +568,7 @@ belmed-acc.economie.fgov.be
 belmed.economie.fgov.be
 belnet.be
 belparcel.fgov.be
+belpas.diplomatie.be
 belpic.acc.rrn.fgov.be
 belpic.rrn.fgov.be
 belrai.belgium.be
@@ -567,6 +582,7 @@ bestat.economie.fgov.be
 bestat.statbel.fgov.be
 beta.beam.belgium.be
 betime.be
+bfast.diplomatie.be
 bgcantw.intra.just.fgov.be
 bgcarlo.intra.just.fgov.be
 bgcbruf.intra.just.fgov.be
@@ -609,6 +625,8 @@ binnenland.fgov.be
 binnenlandse-zaken.fgov.be
 binnenlandsezaken.fgov.be
 biocide.be
+biomapi.dev.diplomatie.be
+biometrie.diplomatie.be
 bipt.be
 biva.just.fgov.be
 bivaacc.just.fgov.be
@@ -853,6 +871,7 @@ conseildesaines.belgium.be
 conseilsuperieurdelasante.belgium.be
 conseilsuperieurvolontaires.belgium.be
 consents.minfin.fgov.be
+consular.diplomatie.be
 consultationdesdonneesducitoyen.fgov.be
 consultativebodies.health.belgium.be
 consultcitizendata.fgov.be
@@ -966,6 +985,7 @@ developer.api.dev.rsvz-inasti.fgov.be
 developer.platform.ibz.be
 devops.digital.belgium.be
 devstatus.ehealth.fgov.be
+dge.diplomatie.be
 dgwl-acc.wss.just.fgov.be
 dgwl.wss.just.fgov.be
 dialin.fedroom.fgov.be
@@ -997,8 +1017,12 @@ digitalliftregistryinspectionservice-acc.economie.fgov.be
 digitalopen.belgium.be
 digitalplaybook.belgium.be
 diplad-acc.ext.wss.just.fgov.be
+diplomatie.be
 diplomatie.d7.pr.belgium.be
 diplomatie.fgov.be
+diplonet.diplomatie.be
+diplonetacc.diplomatie.be
+diplonettest.diplomatie.be
 dirkmichiels-acc.wss.just.fgov.be
 dist.eid.belgium.be
 div-acc.wss.just.fgov.be
@@ -1131,6 +1155,11 @@ ecolabel.be
 ecollect.minfin.fgov.be
 economie.fgov.be
 economischeinspectie2022.belgium.be
+econsul.cloud.diplomatie.be
+econsul.dev.diplomatie.be
+econsul.diplomatie.be
+econsul.tst.diplomatie.be
+econsul.uat.diplomatie.be
 ecoportal-acc.economie.fgov.be
 ecoportal.economie.fgov.be
 ecosystem.archiving.services.belgium.be
@@ -1190,6 +1219,13 @@ elections2010.belgium.be
 elections2014.belgium.be
 elections2019.belgium.be
 elections2024.belgium.be
+elegalisation.api.dev.diplomatie.be
+elegalisation.api.tst.diplomatie.be
+elegalisation.api.uat.diplomatie.be
+elegalisation.dev.diplomatie.be
+elegalisation.tst.diplomatie.be
+elegalisation.uat.diplomatie.be
+elegalisationapi.uat.diplomatie.be
 elevators.economie.fgov.be
 elevatorsacc.economie.fgov.be
 elevatorstest.economie.fgov.be
@@ -1249,6 +1285,10 @@ epolicies.just.fgov.be
 epona.onprvp.fgov.be
 epona.rvponp.fgov.be
 epona.sfpd.fgov.be
+epromotion-api.diplomatie.be
+epromotion-api.uat.diplomatie.be
+epromotion.diplomatie.be
+epromotion.uat.diplomatie.be
 equal.belgium.be
 equalopportunities.belgium.be
 erechnung.belgium.be
@@ -1280,6 +1320,8 @@ eservices.just.fgov.be
 eservices.minfin.fgov.be
 eservices.rrn.fgov.be
 eservicesacc.employment.belgium.be
+estage.diplomatie.be
+estage.uat.diplomatie.be
 etiket.economie.fgov.be
 etikett.economie.fgov.be
 etiquette.economie.fgov.be
@@ -1521,7 +1563,9 @@ grally.minfin.fgov.be
 greenatwork.belgium.be
 gsd.fgov.be
 gt.uat.ccb.belgium.be
+guest.diplomatie.be
 guest.health.fgov.be
+guestauth.diplomatie.be
 guideweb.fgov.be
 handicap.belgium.be
 handicap.fgov.be
@@ -1862,6 +1906,9 @@ leefmilieugezondheid.be
 legacy.FANC.FGOV.BE
 legacy.fanc.fgov.be
 legacy.meta.fgov.be
+legalweb.dev.diplomatie.be
+legalweb.tst.diplomatie.be
+legalweb.uat.diplomatie.be
 leroy.decroo-i.archive.belgium.be
 lfa.fgov.be
 lfspanel.economie.fgov.be
@@ -2063,6 +2110,7 @@ mijndossier.acc.rrn.fgov.be
 mijndossier.rrn.fgov.be
 mijnopinie.belgium.be
 mijnsocialezekerheid.be
+mim.diplomatie.be
 minerva.mobilit.fgov.be
 minfin.fgov.be
 minister.belgium.be
@@ -2130,6 +2178,9 @@ mypension.internet-kate.onprvp.fgov.be
 mypension.onprvp.fgov.be
 mypension.sfpd.fgov.be
 mypenskad.sfpd.fgov.be
+mysites.diplomatie.be
+mysitesacc.diplomatie.be
+mysitestest.diplomatie.be
 mytelemarc.belgium.be
 nacesearch.economie.fgov.be
 napan.meinemeinung.belgium.be
@@ -2166,6 +2217,7 @@ newjobpol.prd.excom.fgov.be
 news.belgium.be
 news.economie.fgov.be
 news.sfpd.fgov.be
+newsbox.diplomatie.be
 newsletter.ccecrb.fgov.be
 newsletter.hda.belgium.be
 newsletter.riziv-inami.fgov.be
@@ -2206,6 +2258,8 @@ ocd.intra.just.fgov.be
 ocsp.eid.belgium.be
 ocsp.eidpki.belgium.be
 ocsp.pki.belgium.be
+officewebapps.diplomatie.be
+officewebappsacc.diplomatie.be
 offreinternetsociale.economie.fgov.be
 offshore.digital-database.economie.fgov.be
 offshore.tender-platform.pez.economie.fgov.be
@@ -2213,6 +2267,9 @@ offshore.tender.pez.economie.fgov.be
 ofo.belgium.be
 ofoifa.belgium.be
 olprufen.economie.fgov.be
+oma.diplomatie.be
+omaacc.diplomatie.be
+omatest.diplomatie.be
 ombudsmanenergie.be
 ombudsmanpensioenen.be
 ome-bm.gcloud.belgium.be
@@ -2374,6 +2431,7 @@ part66.acc.mobilit.fgov.be
 part66.mobilit.fgov.be
 participationcitoyenne.belgium.be
 paspoort.belgium.be
+passwordreset.diplomatie.be
 pauth.riziv.fgov.be
 pdf.fedweb.belgium.be
 pdf.finances.belgium.be
@@ -2441,6 +2499,7 @@ polling2019.belgium.be
 polling2024.belgium.be
 pop.just.fgov.be
 pop.test.just.fgov.be
+portail.diplomatie.be
 portal-acc.rsvz-inasti.fgov.be
 portal-demo.digital.belgium.be
 portal.guest.sfpd.fgov.be
@@ -2498,6 +2557,7 @@ primetarifsocialinstallationcollective.economie.fgov.be
 prisonsnews.just.fgov.be
 private.infocenter.belgium.be
 prod.diogenes.sigedis.fgov.be
+prod.diplomatie.be
 prod.extern.sigedis.fgov.be
 prod.sigedis.fgov.be
 prodcopy-kbo-bce-wi.economie.fgov.be
@@ -3144,6 +3204,7 @@ test-api-teneo.nsarail.fgov.be
 test-extranet-teneo.nsarail.fgov.be
 test-teneo.nsarail.fgov.be
 test.artemis.elections-internal.belgium.be
+test.diplomatie.be
 test.edas-enav.just.fgov.be
 test.eid.belgium.be
 test.ext.ksz-bcss.fgov.be
@@ -3184,6 +3245,14 @@ travaillerdanslesarts.belgium.be
 travaillerdanslesarts.fgov.be
 travailsurmesure.belgium.be
 traveler.mobilit.fgov.be
+travelersonline.dev.diplomatie.be
+travelersonline.diplomatie.be
+travelersonline.tst.diplomatie.be
+travelersonline.uat.diplomatie.be
+travellersonline.dev.diplomatie.be
+travellersonline.diplomatie.be
+travellersonline.tst.diplomatie.be
+travellersonline.uat.diplomatie.be
 treasury.fgov.be
 trn-cjcs-cg.just.fgov.be
 trn-cjcsr.just.fgov.be
@@ -3204,6 +3273,7 @@ uat-opencti-monitoring.ccb.belgium.be
 uat-opencti-search.ccb.belgium.be
 uat-opencti-tracing.ccb.belgium.be
 uat-opencti.ccb.belgium.be
+uat.diplomatie.be
 ubo.minfin.fgov.be
 ucaccess.mobilit.fgov.be
 ucav.mobilit.fgov.be
@@ -3215,6 +3285,7 @@ uhr.economie.fgov.be
 ukkel.mijnopinie.belgium.be
 um-acc.intra.just.fgov.be
 um.intra.just.fgov.be
+ume.europa.diplomatie.be
 ume.just.fgov.be
 uumds.minfin.fgov.be
 uumdsu2s.minfin.fgov.be
@@ -3261,6 +3332,10 @@ victimmanifestation.intra.just.fgov.be
 viewportal.integration.just.fgov.be
 viewportal.intra.just.fgov.be
 vigilis.ibz.be
+visaonweb.diplomatie.be
+visaonweb.uat.diplomatie.be
+visaonwebapi.diplomatie.be
+visaonwebapi.uat.diplomatie.be
 visuals.economie.fgov.be
 visuals.statbel.fgov.be
 vitalink-acpt.ehealth.fgov.be
@@ -3319,6 +3394,7 @@ webconf.just.fgov.be
 webconf.onprvp.fgov.be
 webconf.test.just.fgov.be
 webconf2.just.fgov.be
+webdev.dev.diplomatie.be
 webdisk.2019.elections.fgov.be
 webdiva.mobilit.fgov.be
 webdivp.mobilit.fgov.be
@@ -3340,6 +3416,7 @@ webmail.sigedis.fgov.be
 webportal.inami.fgov.be
 webscheduler.fedroom.fgov.be
 webservices-acpt.onerva.fgov.be
+webservices.diplomatie.be
 webservices.onerva.fgov.be
 webservices2-acpt.onerva.fgov.be
 webservices2.onerva.fgov.be
